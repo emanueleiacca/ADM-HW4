@@ -1,5 +1,8 @@
 # **Homework 4: Movie Recommendation System**
 
+## Main.ipynb file on nbviewer
+
+In case u have any error in opening the main file through Github (is quite heavy), you can access to it through [this link](https://nbviewer.org/github/emanueleiacca/ADM-HW4/blob/main/main.ipynb)
 ## **Project Overview**
 This project involves implementing a movie recommendation system and grouping movies using clustering techniques. Additionally, it explores an algorithmic problem using game theory. The assignment is divided into the following sections:
 
